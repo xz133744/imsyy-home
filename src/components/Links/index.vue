@@ -46,33 +46,33 @@ let linksData = [
   {
     icon: Blog,
     name: "博客",
-    link: "https://blog.imsyy.top/",
+    link: "https://xiaoming.site/",
   },
-  {
-    icon: Cloud,
-    name: "网盘",
-    link: "https://pan.imsyy.top/",
-  },
+  // {
+  //   icon: Cloud,
+  //   name: "网盘",
+  //   link: "https://pan.imsyy.top/",
+  // },
   {
     icon: CompactDisc,
     name: "音乐",
-    link: "https://music.imsyy.top/",
+    link: "https://music.163.com/",
   },
   {
     icon: Compass,
     name: "起始页",
-    link: "https://nav.imsyy.top/",
+    link: "https://xiaoming.site/",
   },
   {
     icon: Book,
     name: "网址集",
-    link: "https://web.imsyy.top/",
+    link: "https://xiaoming.site/link/",
   },
-  {
-    icon: Fire,
-    name: "今日热榜",
-    link: "https://hot.imsyy.top/",
-  },
+  // {
+  //   icon: Fire,
+  //   name: "今日热榜",
+  //   link: "https://hot.imsyy.top/",
+  // },
 ];
 
 // 链接跳转
