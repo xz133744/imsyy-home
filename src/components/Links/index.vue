@@ -61,7 +61,7 @@ let linksData = [
   {
     icon: Compass,
     name: "起始页",
-    link: "https://xiaoming.site/",
+    link: "https://nav.imsyy.top/",
   },
   {
     icon: Book,
