@@ -66,7 +66,7 @@ let linksData = [
   {
     icon: Book,
     name: "网址集",
-    link: "https://xiaoming.site/link/",
+    link: "https://sijie.top/link/",
   },
   // {
   //   icon: Fire,
