@@ -46,7 +46,7 @@ let linksData = [
   {
     icon: Blog,
     name: "博客",
-    link: "https://xiaoming.site/",
+    link: "https://sijie.top/",
   },
   // {
   //   icon: Cloud,
